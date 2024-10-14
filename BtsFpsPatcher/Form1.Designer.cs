@@ -201,7 +201,7 @@
             this.Font = new System.Drawing.Font("Arial", 9F);
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "Form1";
-            this.Text = "Beyond Two Souls FPS Patcher v1.2";
+            this.Text = "Beyond Two Souls FPS Patcher";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
